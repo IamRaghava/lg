@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello    World   good morning!" );
+        System.out.println( "Hello  World   good morning!" );
     }
 }
 public class PrimeExample{    
